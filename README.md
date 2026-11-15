@@ -1,4 +1,4 @@
-# ProjetosSwift
+# Swift
 
 Repositório de estudos e aplicações desenvolvidas em **Swift** durante a trilha presencial do **HackaTruck MakerSpace**. Reúne exercícios de fundamentos da linguagem e projetos práticos independentes, explorando desenvolvimento iOS, SwiftUI, integração com APIs, IoT, mapas e recursos de inteligência artificial.
 
