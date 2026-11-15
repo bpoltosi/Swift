@@ -119,7 +119,7 @@ Para integrações locais por HTTP, confira também as regras de App Transport S
 
 ## Estado de validação
 
-Este repositório é, antes de de tudo, um portfólio de estudos e implementações práticas. A presença de um código ou de uma instrução de execução não significa que todas as combinações de Xcode, iOS, hardware, serviços externos e dependências tenham sido testadas recentemente.
+Este repositório é, antes de tudo, um portfólio de estudos e implementações práticas. A presença de um código ou de uma instrução de execução não significa que todas as combinações de Xcode, iOS, hardware, serviços externos e dependências tenham sido testadas recentemente.
 
 Antes de considerar uma aplicação pronta para uso, valide:
 
